@@ -6,7 +6,7 @@ const heading1 = React.createElement(
   "Heading 1"
 );
 const heading2 = React.createElement(
-  "h2",
+  "h2", 
   {
     className: "title",
   },
